@@ -2,7 +2,7 @@
 This project sets up a for training YOLOX on a custom object detection dataset with YOLO-format annotations, converting them to COCO format, validating annotation integrity, and visualizing the results — all tailored for high-accuracy training on a single-class detection task (e.g., bacteria).
 
 # Features
-✅ YOLO to COCO format converter
+ YOLO to COCO format converter
 Converts standard YOLO .txt annotations into COCO-style .json files for compatibility with YOLOX.
 
 # Annotation validator
